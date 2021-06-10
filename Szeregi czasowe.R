@@ -1,0 +1,6 @@
+install.packages("TSclust")
+library("TSclust")
+library("cluster")
+data("synthetic.tseries")
+install.packages("XQuartz")
+library("XQuartz")
